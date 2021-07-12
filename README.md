@@ -16,5 +16,5 @@ Before going through the .ipynb file  and start analyzing on what the project is
 
 4.) Numpy:- Used for calculative purposes.
 
-5.) Ignore Warnings:- This basically ignores warniings gievn by the IDE.
+5.) Ignore Warnings:- This basically ignores warnings gievn by the IDE.
 
